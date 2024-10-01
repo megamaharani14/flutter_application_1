@@ -3,6 +3,8 @@ import 'package:flutter/cupertino.dart';
 
 
 class LoadingCupertino extends StatelessWidget{
+  const LoadingCupertino({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
